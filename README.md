@@ -18,4 +18,4 @@ This project use data provided by [Motivate](https://motivateco.com/), a bike sh
     - **washington.csv**
 
 # Credits
-Anonymous reviewer from Udacity helped improved the code in terms of check data entry.
+Anonymous reviewers from Udacity helped improve the code regarding check data entry.
