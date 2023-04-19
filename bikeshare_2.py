@@ -43,8 +43,6 @@ def get_filters():
     else:
         print("Invalid input: no filter will be applied")
 
-
-
     print('-'*40)
     return city, month, day
 
